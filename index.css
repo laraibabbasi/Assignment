@@ -1,0 +1,40 @@
+*{
+    padding: 0;
+    margin: 0;
+    background-color:black;
+}
+
+.main{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+    
+}
+.main h1{
+    color: #fff;
+    font-weight: 900;
+    font: bold;
+    padding-bottom: 10px;
+    padding-left: 10px;
+  
+}
+
+.images{
+    object-fit: contain;
+    width: 70%;
+  }
+
+.center{
+    display: flex;
+   
+}
+.abc{
+    color: #fff;
+}
+
+
+ 
+  
